@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminuSufi585/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Aminu Ibrahim Abubakar <aminukano585@gmail.com> (https://aminukano.herokuapp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AminuSufi585/starwars-names/issues"
+  },
+  "homepage": "https://github.com/AminuSufi585/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
